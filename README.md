@@ -14,11 +14,13 @@ detect_logical.py文件：进入检测界面
 track.py文件：打开摄像头
 
 **两种程序使用方式：**
-
 直接运行detect_logical.py，进入检测界面
 运行track.py，进入摄像头跟踪界面
 
-
+**作业及报告位置**
+平时作业在summercamp里面
+预习报告。总结报告以及答辩PPT均在repo里面
+![image](https://user-images.githubusercontent.com/111260252/190394701-6fca33aa-cee3-4a45-9390-9253a923e19e.png)
 
 
 
