@@ -9,6 +9,7 @@
 **文件构成与组成**
 yolov5文件夹：包含models文件，用于保存模型；weights文件，用于保存权重文件；utils文件，用于检测核心代码；runs文件，保存运行好的视频和检测好的权重文件等等。该文件夹是物体检测运行的主代码
 deep_sort_pytorch文件夹：包含configs文件，保存deepsort一些参数；deep_sort文件，保存核心算法；utils文件等等。该文件夹是物体跟踪运行的主代码
+VOC文件夹：包含自己寻找的训练集
 detect.py文件：物体检测代码
 detect_logical.py文件：进入检测界面
 track.py文件：打开摄像头
